@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1685980699 source:c:\users\rufed\desktop\kpi\c++\aboba 2\src\complex_number.cpp
+	"complex_number.h"
+	<cmath>
+	<sstream>
+
+1685980595 c:\users\rufed\desktop\kpi\c++\aboba 2\include\complex_number.h
+	<string>
+
+1685972022 source:c:\users\rufed\desktop\kpi\c++\aboba 2\main.cpp
+	<iostream>
+	"complex_number.h"
+	"logger.h"
+
+1685972484 source:c:\users\rufed\desktop\kpi\c++\aboba 2\src\logger.cpp
+	"Logger.h"
+
+1685972484 c:\users\rufed\desktop\kpi\c++\aboba 2\include\logger.h
+	<iostream>
+	<fstream>
+	<ctime>
+
